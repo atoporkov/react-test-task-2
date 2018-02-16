@@ -1,0 +1,54 @@
+{
+  "cats": [
+    {
+      "id": 1,
+      "name": "Tiger",
+      "age": "1"
+    },
+    {
+      "id": 2,
+      "name": "Misty",
+      "age": "2"
+    },
+    {
+      "id": 3,
+      "name": "Oscar",
+      "age": "3"
+    },
+    {
+      "id": 4,
+      "name": "Smokey",
+      "age": "4"
+    },
+    {
+      "id": 5,
+      "name": "Max",
+      "age": "5"
+    },
+    {
+      "id": 6,
+      "name": "Angel",
+      "age": "6"
+    },
+    {
+      "id": 7,
+      "name": "Lucy",
+      "age": "7"
+    },
+    {
+      "id": 8,
+      "name": "Missy",
+      "age": "8"
+    },
+    {
+      "id": 9,
+      "name": "Simba",
+      "age": "2"
+    },
+    {
+      "id": 10,
+      "name": "Chester",
+      "age": "5"
+    }
+  ]
+}
