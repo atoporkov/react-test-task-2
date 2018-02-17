@@ -1,0 +1,10 @@
+.cat-form-component {
+    .cat-form-errors {
+        list-style: none;
+        li {
+            margin:0;
+            color: #F44336;
+            font-style: italic;
+        }
+    }
+}

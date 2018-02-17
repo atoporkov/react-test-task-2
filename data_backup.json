@@ -6,6 +6,11 @@
       "age": "3"
     },
     {
+      "id": 2,
+      "name": "Misty",
+      "age": "2"
+    },
+    {
       "id": 3,
       "name": "Oscar",
       "age": "3"
@@ -44,16 +49,6 @@
       "id": 10,
       "name": "Chester",
       "age": "5"
-    },
-    {
-      "name": "Simba",
-      "age": "2",
-      "id": 11
-    },
-    {
-      "name": "qwe",
-      "age": "9",
-      "id": 15
     }
   ]
 }

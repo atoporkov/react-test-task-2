@@ -21,13 +21,7 @@ module.exports = {
     devtool: '#eval-source-map',
     resolve: {
         extensions: ['.js', '.jsx', '.json', '.html', '.scss', 'css'],
-        modules: ['node_modules'],
-        alias: {
-            components: path.resolve(__dirname, 'app/components/'),
-            assets: path.resolve(__dirname, 'app/assets/'),
-            actions: path.resolve(__dirname, 'app/actions/'),
-            reducers: path.resolve(__dirname, 'app/reducers/'),
-        }
+        modules: ['node_modules']
     },
     module: {
         rules: [

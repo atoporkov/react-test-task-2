@@ -1,0 +1,21 @@
+.add-button-component {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #9b4dca;
+    border: 1px solid transparent;
+    display: table;
+    &:hover {
+        background-color: #fff;
+        border: 1px solid #9b4dca;
+        a {
+            color: #9b4dca;
+        }
+    }
+    a {
+        display: table-cell;
+        vertical-align: middle;
+        text-align: center;
+        color: #fff;
+    }
+}

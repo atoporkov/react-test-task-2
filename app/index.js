@@ -11,6 +11,7 @@ import 'milligram';
 import 'font-awesome/css/font-awesome.min.css';
 
 // scenes
+import Home from './scenes/Home';
 import Cat from './scenes/Cat';
 import List from './scenes/List';
 

@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev-server": "webpack-dev-server --historyApiFallback",
-    "data-server": "json-server --watch database.json"
+    "data-server": "json-server --watch data.json"
   },
   "author": "alex toporkov",
   "license": "ISC",
